@@ -4,10 +4,19 @@
         <title>吴旭专属网站 Blog</title>
         <link>https://wu996.github.io/blog</link>
         <description>吴旭专属网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[登鹳雀楼]]></title>
+            <link>https://wu996.github.io/blog/happy</link>
+            <guid>https://wu996.github.io/blog/happy</guid>
+            <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[白日依山尽，黄河入海流，欲穷千里目，更上一层楼]]></description>
+            <content:encoded><![CDATA[<p>白日依山尽，黄河入海流，欲穷千里目，更上一层楼</p>]]></content:encoded>
+            <category>诗，随笔，王维</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://wu996.github.io/blog/welcome</link>
